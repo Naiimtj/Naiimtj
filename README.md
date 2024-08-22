@@ -4,7 +4,7 @@
 const naiimtj ={
   pronouns: "he" | "him",
   code: [JavaScript, Python, HTML, CSS, SQL],
-  tools: [React, Node, Style-Components, Tailwind CSS, MongoDb],
+  tools: [React, Vue, Nuxt, Node, Style-Components, Tailwind CSS, MongoDb, MySQL, FastAPI, PostgreSQL, SQL Server Manager Studio],
 }
 ```
 - 🌱 I’m currently learning Docker & Testin
