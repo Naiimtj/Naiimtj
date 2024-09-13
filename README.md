@@ -2,7 +2,7 @@
 
 ```js
 const naiimtj ={
-  😄 Pronouns: "Näeem",
+  pronouns: "Näeem",
   code: [JavaScript, Python, HTML, CSS, SQL],
   tools: [React, Vue, Nuxt, Node, Style-Components, Tailwind CSS, MongoDb, MySQL, FastAPI, PostgreSQL, SQL Server Manager Studio],
 }
