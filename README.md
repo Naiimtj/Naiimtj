@@ -1,13 +1,12 @@
 ### Hi, I'm Naiim 👋
 
 ```js
-const naiimtj ={
+const naiim ={
   pronouns: "Näeem",
   code: [JavaScript, Python, HTML, CSS, SQL],
   tools: [React, Vue, Nuxt, Node, Style-Components, Tailwind CSS, MongoDb, MySQL, FastAPI, PostgreSQL, SQL Server Manager Studio],
 }
 ```
-- 🌱 I’m currently learning Apache Echarts & Testin
 - 📫 How to reach me: naiim.tj@gmail.com
 <!--
 **Naiimtj/Naiimtj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
