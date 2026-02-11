@@ -3,8 +3,8 @@
 ```js
 const naiim ={
   pronouns: "Näeem",
-  code: [JavaScript, Python, HTML, CSS, SQL],
-  tools: [React, Vue, Nuxt, Node, Style-Components, Tailwind CSS, MongoDb, MySQL, FastAPI, PostgreSQL, SQL Server Manager Studio],
+  code: [JavaScript, Python, Typescript, HTML, CSS, SQL],
+  tools: [React, Vue, Nuxt, Node, Tailwind CSS, MySQL, PostgreSQL, FastAPI, MongoDb],
 }
 ```
 - 📫 How to reach me: naiim.tj@gmail.com
