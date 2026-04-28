@@ -4,9 +4,10 @@
 const naiim ={
   pronouns: "Näeem",
   code: [JavaScript, Python, Typescript, HTML, CSS, SQL],
-  tools: [React, Vue, Nuxt, Node, Tailwind CSS, MySQL, PostgreSQL, FastAPI, MongoDb],
+  tools: [React, Vue, Nuxt, Node, Tailwind CSS, MySQL, PostgreSQL, FastAPI, Docker, MongoDb],
 }
 ```
+- 🌱 I’m currently learning Retrieval-Augmented Generation (RAG)
 - 📫 How to reach me: naiim.tj@gmail.com
 <!--
 **Naiimtj/Naiimtj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
